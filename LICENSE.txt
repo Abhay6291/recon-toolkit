@@ -1,0 +1,11 @@
+Copyright (c) 2025 Abhay Ingale
+
+Permission is hereby granted, free of charge, to any user of this software, to use and test the software for personal, non-commercial, and educational purposes, subject to the following conditions:
+
+1. The user must not sell, redistribute, or host this software as their own.
+2. The user is encouraged to report bugs, issues, or suggestions via GitHub Issues or the contact email provided.
+3. This software is provided "as is", without warranty of any kind.
+
+For any commercial use, redistribution, or integration, written permission must be obtained from the author.
+
+Contact: abhayingale66@gmail.com
